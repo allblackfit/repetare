@@ -1,0 +1,1 @@
+alert("contul dvs. a fost piratat");
